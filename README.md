@@ -40,5 +40,7 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
    - An extension of the modified SSP problem, but with a carrying capacity inequality constraint
    - Solved with brute-force search & QUBO implementation in DWave's hybrid solver
 5) Simple Qubo Example.ipynb
-6) Max Cut Problem Example.ipynb
-7) Weighted Max Cut Social Networks.ipynb
+   - A simple QUBO is formulated as an arbitrary math problem, introducing the quadratic nature of the QUBO
+   - Solved analytically and with DWave's hybrid solver
+7) Max Cut Problem Example.ipynb
+8) Weighted Max Cut Social Networks.ipynb
