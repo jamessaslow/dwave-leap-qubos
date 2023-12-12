@@ -54,6 +54,8 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
 I plan to continue to add to this project with more worked-out examples that aren't too tremendously difficult jumps compared to the natural progression of the tutorial so far.
 In the future, I would like to add 
 
-   - Graph coloring
+   - Weighted Max Cut Party Planning with Seat Constraints
+   - Quadratic Knapsack
    - Job scheduling 
+   - Graph coloring
    - Traveling Salesman
