@@ -32,11 +32,13 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
 1) Simple LUBO Example.ipynb
    - An Introduction to solving Linear Unconstrained Binary Optimization Problems
    - A simple LUBO is formulated as an arbitrary math problem & solved both analytically and with DWave solvers
-3) Subset Sum Problem Example.ipynb
+2) Subset Sum Problem Example.ipynb
    - The Subset Sum Problem (SSP) is formally introduced as a practical application of a LUBO problem
    - SSP is modified from its usual form to find the subset that extremizes the target sum amount
    - Solved with brute-force search & QUBO implementation in DWave solvers
-5) Knapsack Problem Example.ipynb
-6) Simple Qubo Example.ipynb
-7) Max Cut Problem Example.ipynb
-8) Weighted Max Cut Social Networks.ipynb
+3) Knapsack Problem Example.ipynb
+   - An extension of the modified SSP problem, but with a carrying capacity inequality constraint
+   - Solved with brute-force search & QUBO implementation in DWave solvers
+5) Simple Qubo Example.ipynb
+6) Max Cut Problem Example.ipynb
+7) Weighted Max Cut Social Networks.ipynb
