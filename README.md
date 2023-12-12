@@ -42,5 +42,8 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
 5) Simple Qubo Example.ipynb
    - A simple QUBO is formulated as an arbitrary math problem, introducing the quadratic nature of the QUBO
    - Solved analytically and with DWave's hybrid solver
-7) Max Cut Problem Example.ipynb
-8) Weighted Max Cut Social Networks.ipynb
+6) Max Cut Problem Example.ipynb
+   - Node-Network problems are introduced and casted into QUBO formalism
+   - Max Cut is solved with DWave's hybrid solver
+7) Weighted Max Cut Social Networks.ipynb
+   - Weighted Max cut is introduced as an extension of the Max-Cut Problem, adding 'weights' into the graphs
