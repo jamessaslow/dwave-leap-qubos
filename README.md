@@ -16,8 +16,7 @@ This tutorial utilizes **dwave.system** and **dimod** packages from DWave, **net
 
 <h2> DWave's Quantum Annealer </h2>
 
-Unlike many other quantum computing platforms, DWave's quantum annealer **does not** use quantum gates -- They use a different method called **quantum annealing**. Quantum annealers can embed an Ising Hamiltonian and solve for the ground state solution. QUBO problem that can be directly mapped to an Ising Hamiltonian with a simple linear transformation. Finding the ground state of the Ising Hamiltonian means finding the optimal solution(s) to the QUBO!
-
+Unlike many other quantum computing platforms, DWave's quantum annealer **does not** use quantum gates -- They use a different method called **quantum annealing**. Quantum annealers can embed an Ising Hamiltonian and solve for the ground state solution. QUBO problem that can be directly mapped to an Ising Hamiltonian with a simple linear transformation. Finding the ground state of the Ising Hamiltonian means finding the optimal solution(s) to the QUBO! A quantum annealing approach can be thought of as doing a gradient descent on some potential function in search of the absolute minimum. However, the problem with gradient descent is that there is a chance you could get stuck in a relative minima instead. Quantum annealing provides an interesting feature of quantum tunneling which allows an escape from these relative minima wells with some probability. Because of this, quantum annealing uses quantum tunneling to extend the search-space in hopes of landing in the absolute minimum well.
 
 
 
