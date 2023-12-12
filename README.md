@@ -12,7 +12,7 @@ Quadratic Unconstrained Binary Optimization problems, or QUBO problems, are a sp
 <h2> System Requirements </h2>
 
 We access DWave's quantum annealer remotely using the DWave Leap API & Ocean SDK in a Python3 Jupyter Notebook environment. I am using DWave's free access trial plan to interact with their systems. 
-This tutorial utilizes **dwave.system** and **dimod** packages from DWave, **networkx** for node-network embedding, as well as standard packages i.e. **numpy**, **matplotlib**, & **pandas**.
+This tutorial utilizes **dwave.system** and **dimod** packages from DWave, **networkx** for node-network embedding, as well as standard Python packages i.e. **numpy**, **matplotlib**, & **pandas**.
 
 <h2> DWave's Quantum Annealer </h2>
 
