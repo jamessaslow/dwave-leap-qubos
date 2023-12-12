@@ -30,8 +30,10 @@ Unlike many other quantum computing platforms, DWave's quantum annealer **does n
 This project contains several Jupyter Notebook (.ipynb) files containing worked-out examples of how to use DWave's API in solving a variety of QUBO problems
 
 1) Simple LUBO Example.ipynb
-2) Subset Sum Problem Example.ipynb
-3) Knapsack Problem Example.ipynb
-4) Simple Qubo Example.ipynb
-5) Max Cut Problem Example.ipynb
-6) Weighted Max Cut Social Networks.ipynb
+   - An Introduction to solving Linear Unconstrained Binary Optimization Problems
+   - A simple LUBO is formulated as an arbitrary math problem & solved both analytically and with DWave solvers
+3) Subset Sum Problem Example.ipynb
+4) Knapsack Problem Example.ipynb
+5) Simple Qubo Example.ipynb
+6) Max Cut Problem Example.ipynb
+7) Weighted Max Cut Social Networks.ipynb
