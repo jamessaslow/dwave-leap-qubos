@@ -27,4 +27,4 @@ Unlike many other quantum computing platforms, DWave's quantum annealer **does n
 
 <h2> Table of Contents</h2>
 
-
+This project contains several Jupyter Notebook (.ipynb) files containing working examples of QUBO implementation in DWave's solvers. 
