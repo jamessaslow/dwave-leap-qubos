@@ -32,19 +32,19 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
 ## 1) [Simple LUBO Example.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/1.%20Simple%20LUBO%20Example.ipynb)
    - An Introduction to Solving Linear Unconstrained Binary Optimization Problems
    - A simple LUBO is formulated as an arbitrary math problem & solved both analytically and with DWave solvers
-## 2) Subset Sum Problem Example.ipynb
+## 2) [Subset Sum Problem Example.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/1.%20Simple%20LUBO%20Example.ipynb)
    - The Subset Sum Problem (SSP) is formally introduced as a practical application of a LUBO problem
    - SSP is modified from its usual form to find the subset that extremizes the target sum amount
    - Solved with brute-force search & QUBO implementation in DWave's hybrid solver
-## 3) Knapsack Problem Example.ipynb
+## 3) [Knapsack Problem Example.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/3.%20Knapsack%20Problem%20Example.ipynb)
    - An extension of the modified SSP problem, but with a carrying capacity inequality constraint
    - Solved with brute-force search & QUBO implementation in DWave's hybrid solver
-## 4) Simple Qubo Example.ipynb
+## 4) [Simple Qubo Example.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/4.%20Simple%20QUBO%20Example.ipynb)
    - A simple QUBO is formulated as an arbitrary math problem, introducing the quadratic nature of the QUBO
    - Solved analytically and with DWave's hybrid solver
-## 5) Max Cut Problem Example.ipynb
+## 5) [Max Cut Problem Example.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/5.%20Max%20Cut%20Problem%20Example.ipynb)
    - Node-Network problems are introduced and cast into QUBO formalism
    - Max Cut is solved with DWave's hybrid solver
-## 6) Weighted Max Cut Social Networks.ipynb
+## 6) [Weighted Max Cut Social Networks.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/6.%20Weighted%20Max%20Cut%20Social%20Networks.ipynb)
    - Weighted Max cut is introduced as an extension of the Max-Cut Problem, adding 'weights' into the graphs
-   - DWave hybrid solver is used to partition a social networks into binary groups
+   - DWave hybrid solver is used to partition a social network into binary groups
