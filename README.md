@@ -53,6 +53,7 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
 <h2> To-do List </h2>
 I plan to continue to add to this project with more worked-out examples that aren't too tremendous of difficult jumps compared to the natural progression so far.
 In the future, I would like to add 
+
 - Graph coloring
 - Job scheduling 
 - Traveling Salesman
