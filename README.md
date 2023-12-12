@@ -48,3 +48,11 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
 ## 6) [Weighted Max Cut Social Networks.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/6.%20Weighted%20Max%20Cut%20Social%20Networks.ipynb)
    - Weighted Max cut is introduced as an extension of the Max-Cut Problem, adding 'weights' into the graphs
    - DWave hybrid solver is used to partition a social network into binary groups
+
+
+<h2> To-do List </h2>
+I plan to continue to add to this project with more worked-out examples that aren't too tremendous of difficult jumps compared to the natural progression so far.
+In the future, I would like to add 
+- Graph coloring
+- Job scheduling 
+- Traveling Salesman
