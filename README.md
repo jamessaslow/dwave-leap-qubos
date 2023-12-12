@@ -35,10 +35,10 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
 2) Subset Sum Problem Example.ipynb
    - The Subset Sum Problem (SSP) is formally introduced as a practical application of a LUBO problem
    - SSP is modified from its usual form to find the subset that extremizes the target sum amount
-   - Solved with brute-force search & QUBO implementation in DWave solvers
+   - Solved with brute-force search & QUBO implementation in DWave's hybrid solver
 3) Knapsack Problem Example.ipynb
    - An extension of the modified SSP problem, but with a carrying capacity inequality constraint
-   - Solved with brute-force search & QUBO implementation in DWave solvers
+   - Solved with brute-force search & QUBO implementation in DWave's hybrid solver
 5) Simple Qubo Example.ipynb
 6) Max Cut Problem Example.ipynb
 7) Weighted Max Cut Social Networks.ipynb
