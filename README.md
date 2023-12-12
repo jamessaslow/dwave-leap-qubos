@@ -31,7 +31,7 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
 
 ## 1) [Simple LUBO Example.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/1.%20Simple%20LUBO%20Example.ipynb)
    - An Introduction to Solving Linear Unconstrained Binary Optimization Problems
-   - A simple LUBO is formulated as an arbitrary math problem & solved both analytically and with DWave solvers
+   - A simple LUBO is formulated as an arbitrary math problem & solved both analytically and experimentally with DWave solvers
 ## 2) [Subset Sum Problem Example.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/2.%20Subset%20Sum%20Problem%20Example.ipynb)
    - The Subset Sum Problem (SSP) is formally introduced as a practical application of a LUBO problem
    - SSP is modified from its usual form to find the subset that extremizes the target sum amount
