@@ -39,7 +39,7 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
 ## 3) [Knapsack Problem Example.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/3.%20Knapsack%20Problem%20Example.ipynb)
    - An extension of the modified SSP problem, but with a carrying capacity inequality constraint
    - Solved with brute-force search & QUBO implementation in DWave's hybrid solver
-## 4) [Simple Qubo Example.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/4.%20Simple%20QUBO%20Example.ipynb)
+## 4) [Simple QUBO Example.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/4.%20Simple%20QUBO%20Example.ipynb)
    - A simple QUBO is formulated as an arbitrary math problem, introducing the quadratic nature of the QUBO
    - Solved analytically and with DWave's hybrid solver
 ## 5) [Max Cut Problem Example.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/5.%20Max%20Cut%20Problem%20Example.ipynb)
