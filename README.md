@@ -47,3 +47,4 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
    - Max Cut is solved with DWave's hybrid solver
 7) Weighted Max Cut Social Networks.ipynb
    - Weighted Max cut is introduced as an extension of the Max-Cut Problem, adding 'weights' into the graphs
+   - DWave hybrid solver is used to partition a social networks into binary groups
