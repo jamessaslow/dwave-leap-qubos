@@ -22,5 +22,6 @@ Unlike many other quantum computing platforms, DWave's quantum annealer **does n
 *Adapted from DWave's Solver Docs*
 
 
+<h2> Table of Contents</h2>
 
 
