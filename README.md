@@ -60,3 +60,4 @@ In the future, I would like to add
    - Job scheduling 
    - Graph coloring
    - Traveling Salesman
+   - Vacation Planning Problem
