@@ -34,6 +34,7 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
    - A simple LUBO is formulated as an arbitrary math problem & solved both analytically and with DWave solvers
 3) Subset Sum Problem Example.ipynb
    - The Subset Sum Problem (SSP) is formally introduced as a practical application of a LUBO problem
+   - SSP is modified from its traditional form to find the subset that extremizes the target sum amount
    - Solved with brute-force search & QUBO implementation in DWave solvers
 5) Knapsack Problem Example.ipynb
 6) Simple Qubo Example.ipynb
