@@ -29,8 +29,7 @@ Unlike many other quantum computing platforms, DWave's quantum annealer **does n
 
 This project contains several Jupyter Notebook (.ipynb) files containing worked-out examples of how to use DWave's API in solving a variety of QUBO problems
 
-<h3>1) Simple LUBO Example.ipynb <\h3>
-   
+1) Simple LUBO Example.ipynb   
    - An Introduction to Solving Linear Unconstrained Binary Optimization Problems
    - A simple LUBO is formulated as an arbitrary math problem & solved both analytically and with DWave solvers
 2) Subset Sum Problem Example.ipynb
