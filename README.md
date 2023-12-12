@@ -49,7 +49,7 @@ This project contains several Jupyter Notebook (.ipynb) files containing worked-
    - Node-Network problems are introduced and cast into QUBO formalism
    - Max Cut is solved with DWave's hybrid solver
 ## 6) [Weighted Max Cut Social Networks.ipynb](https://github.com/jamessaslow/dwave-leap-qubos/blob/main/6.%20Weighted%20Max%20Cut%20Social%20Networks.ipynb)
-   - Weighted Max cut is introduced as an extension of the Max-Cut Problem, adding 'weights' into the graphs
+   - Weighted Max cut is introduced as an extension of the Max-Cut Problem, adding 'weights' into the edges of the node-network graphs
    - DWave hybrid solver is used to partition a social network into binary groups
 
 
